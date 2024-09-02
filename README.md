@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sahilkumarchaurasia25
 - 👀 I’m interested in Embedded System
-- 🌱 I’m currently learning ... MATLAB
 - 📫 How to reach me ... sahilkumarchaurasia189@gmail.com
 
 <!---
